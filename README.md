@@ -10,5 +10,5 @@
  ## link to soc-med
 
 # Disclaimer
- **Glaiza Jhoy**
+ **Glaiza Jhoy Suroysuroy**
   _ABM 11_

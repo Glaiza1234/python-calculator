@@ -7,7 +7,7 @@
 
 # About the Author
  ## Picture
- ## link to soc-medhttps://www.facebook.com/profile.php?id=61558329915927
+ ## link to soc-med https://www.facebook.com/profile.php?id=61558329915927
 
 # Disclaimer
  **Glaiza Jhoy Suroysuroy**

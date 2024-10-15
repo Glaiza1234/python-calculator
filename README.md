@@ -6,6 +6,7 @@
  ## Mac-OS
  * **Mac-OS Installation Guide:**
 [https://support.apple.com/en-us/HT204904](https://support.apple.com/en-us/HT204904)
+
 # Pre-requisites
  ## Tech-stack
 

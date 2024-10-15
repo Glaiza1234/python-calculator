@@ -12,7 +12,7 @@
 
 
 # About the Author
- ## Picture
+ ## [Picture]![Alt text](https://example.com/path/to/image.png)
  ## [link to soc-med](https://www.facebook.com/profile.php?id=61558329915927)
 
 # Disclaimer

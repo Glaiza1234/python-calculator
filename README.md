@@ -11,7 +11,6 @@
  ## Tech-stack
 
 
-
 # About the Author
  ## Picture
  ## [link to soc-med](https://www.facebook.com/profile.php?id=61558329915927)

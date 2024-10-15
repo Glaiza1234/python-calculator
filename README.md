@@ -9,7 +9,7 @@
 
 # Pre-requisites
  ## Tech-stack
-
+ 
 
 # About the Author
  ## [Picture](https://th.bing.com/th/id/OIP.yLf7kQVaLpxqCZX1VRHw-wHaEK?rs=1&pid=ImgDetMain)

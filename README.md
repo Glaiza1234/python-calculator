@@ -1,10 +1,10 @@
 # Installation
  ## Windows
- * **Windows Installation Guide:**
+**Windows Installation Guide:**
 [https://www.microsoft.com/en-us/software-download/windows11](https://www.microsoft.com/en-us/software-download/windows11)
 
  ## Mac-OS
- * **Mac-OS Installation Guide:**
+**Mac-OS Installation Guide:**
 [https://support.apple.com/en-us/HT204904](https://support.apple.com/en-us/HT204904)
 
 # Pre-requisites
